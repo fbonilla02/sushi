@@ -9,7 +9,7 @@ Basic landing page with html, css y js
 - Maintain a well-organized file and folder structure
 -  Embrace the principles of writing clean code
 
-https://glittering-naiad-9c9052.netlify.app/
+https://fbonilla02-sushi-app.netlify.app/
 
 ![Sushiman](https://github.com/fbonilla02/sushi/assets/53198057/2471a4b5-7752-423a-8694-368169a00696)
 
